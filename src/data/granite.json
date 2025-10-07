@@ -1,0 +1,113 @@
+[
+  {
+    "id": "1759870672000",
+    "name": "Cat Eye",
+    "slug": "cat-eye",
+    "description": "Cat Eye Granite is a striking and exotic natural stone known for its deep reddish-brown to black background accented with distinctive golden or amber flecks that resemble a cat’s eye—hence the name. Quarried in India, this granite is prized for its unique appearance, excellent durability, and high resistance to stains and heat.",
+    "category": "premium",
+    "availability": "in-stock",
+    "features": [],
+    "applications": [],
+    "finishes": [],
+    "specifications": {
+      "origin": "India",
+      "hardness": "",
+      "finish": "",
+      "thickness": ""
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759870663/qleqxuh33bzj16a4ccmr.png",
+        "public_id": "qleqxuh33bzj16a4ccmr"
+      },
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759870567/mwo1s26lklsdem7j0gjq.jpg",
+        "public_id": "mwo1s26lklsdem7j0gjq"
+      },
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759870615/zicfdkefls8qv9jcd4rn.jpg",
+        "public_id": "zicfdkefls8qv9jcd4rn"
+      },
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759870652/tuaabc82oudorq1h5idx.jpg",
+        "public_id": "tuaabc82oudorq1h5idx"
+      }
+    ],
+    "featured": true,
+    "displayRank": 0
+  },
+  {
+    "id": "1759870839649",
+    "name": "R Black",
+    "slug": "r-black",
+    "description": "R Black Granite is a premium quality natural stone sourced from the rich quarries of India. Known for its deep, uniform black color and subtle fine-grain texture, this granite exudes elegance and timeless beauty. Its consistent appearance, durability, and resistance to weathering make it an ideal choice for both indoor and outdoor applications.",
+    "category": "premium",
+    "availability": "in-stock",
+    "features": [],
+    "applications": [],
+    "finishes": [],
+    "specifications": {
+      "origin": "India",
+      "hardness": "",
+      "finish": "",
+      "thickness": ""
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759870771/hbak7itrfgossscqvnjy.webp",
+        "public_id": "hbak7itrfgossscqvnjy"
+      },
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759870783/x60zpjbpwje5axtroai5.jpg",
+        "public_id": "x60zpjbpwje5axtroai5"
+      },
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759870817/nlt1649co2lqbvjlxwfn.jpg",
+        "public_id": "nlt1649co2lqbvjlxwfn"
+      },
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759870817/mmgxztcjejzooglaerj9.webp",
+        "public_id": "mmgxztcjejzooglaerj9"
+      }
+    ],
+    "featured": true,
+    "displayRank": 0
+  },
+  {
+    "id": "1759871152591",
+    "name": "Alaska White",
+    "slug": "alaska-white",
+    "description": "Alaska White Granite is an elegant and high-contrast natural stone known for its striking blend of icy whites, soft greys, and deep onyx mineral patterns. Quarried primarily in Brazil and India, this granite offers a dynamic, modern aesthetic while retaining the timeless durability granite is known for.",
+    "category": "premium",
+    "availability": "in-stock",
+    "features": [],
+    "applications": [],
+    "finishes": [],
+    "specifications": {
+      "origin": "Brazil / India",
+      "hardness": "",
+      "finish": "",
+      "thickness": ""
+    },
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759871081/boaznjffezfo3gtygx48.webp",
+        "public_id": "boaznjffezfo3gtygx48"
+      },
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759871100/ooietmzxayhw8pjgvifa.jpg",
+        "public_id": "ooietmzxayhw8pjgvifa"
+      },
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759871123/dpabskjpx8lihjvwqr3q.jpg",
+        "public_id": "dpabskjpx8lihjvwqr3q"
+      },
+      {
+        "url": "https://res.cloudinary.com/dga1vmusg/image/upload/v1759871149/namdywppkbu0mfqdrtkc.jpg",
+        "public_id": "namdywppkbu0mfqdrtkc"
+      }
+    ],
+    "featured": true,
+    "displayRank": 0
+  }
+]
